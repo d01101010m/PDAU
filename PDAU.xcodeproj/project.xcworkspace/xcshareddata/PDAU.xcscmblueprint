@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6F7A20C0CDB7BDCD5180DBA15CA6EBFFD435B7B5" : 9223372036854775807,
+    "1A0B07D1631AC7F0F17FCE76695E42D64F01958F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BD71A12C-D05F-492D-8383-07E66A46635E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6F7A20C0CDB7BDCD5180DBA15CA6EBFFD435B7B5" : "PDAU\/libpd\/pure-data\/",
+    "1A0B07D1631AC7F0F17FCE76695E42D64F01958F" : "PDAU\/libpd\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PDAU",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PDAU.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/libpd\/libpd.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A0B07D1631AC7F0F17FCE76695E42D64F01958F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/git.code.sf.net\/p\/pure-data\/pure-data",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F7A20C0CDB7BDCD5180DBA15CA6EBFFD435B7B5"
+    }
+  ]
+}

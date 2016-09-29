@@ -1,0 +1,8 @@
+#N canvas 429 315 450 300 10;
+#X obj 112 88 osc~ 440;
+#X obj 112 127 dac~;
+#X obj 178 88 r checkPatch;
+#X obj 178 127 print patch loaded!;
+#X connect 0 0 1 0;
+#X connect 0 0 1 1;
+#X connect 2 0 3 0;
